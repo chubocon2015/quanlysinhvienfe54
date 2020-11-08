@@ -1,6 +1,7 @@
-var LopHoc = function(){
+var LopHoc = function() {
     this.danhsachSinhVien = [];
-    this.layDanhSachSinhVien = function(){
+    this.tenLopHoc = 'Fe54';
+    this.layDanhSachSinhVien = function() {
         return this.danhsachSinhVien;
     }
 }
